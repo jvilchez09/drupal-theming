@@ -12,5 +12,6 @@ regions:
   page_top: Page Top
   page_bottom: Page Bottom
 
-libraries
+libraries:
   - mytheme/global-css
+  - mytheme/pacifico
