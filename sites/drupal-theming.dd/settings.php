@@ -261,7 +261,8 @@ $databases = [];
  * directory in the public files path. The setting below allows you to set
  * its location.
  */
-$settings['config_sync_directory'] = 'sites/default/files/config_acqTmp-2021-09-15T11.59.46-1304/staging';
+// $settings['config_sync_directory'] = 'sites/default/files/config_acqTmp-2021-09-15T11.59.46-1304/staging';
+$settings['config_sync_directory'] = '../config/sync';
 
 /**
  * Settings:
