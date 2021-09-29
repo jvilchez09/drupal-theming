@@ -2,7 +2,7 @@ name: Elegant Gardens
 type: theme
 description: Fresh green theme for Elegant Gardens
 core: 8.x
-theme: classy
+base theme: classy
 screentshot: screenshot.png
 
 libraries:
